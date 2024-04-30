@@ -34,6 +34,11 @@
   
   The default ban message is [WhitelistCheck]: Banned by WhitelistCheck.
 
+  <br>
+
+  Example ban screen:<br>
+![image](https://github.com/4rft5/WhitelistCheck/assets/74219775/3f5212d7-effb-4fe7-83e2-219b2a21786a)
+
   <br><br>
   
   
@@ -42,11 +47,6 @@
   If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact/>4rft5.com/contact</a>
 
 <br><br>
-
-
-
-Example ban screen:<br>
-![image](https://github.com/4rft5/WhitelistCheck/assets/74219775/3f5212d7-effb-4fe7-83e2-219b2a21786a)
 
 ## Future Ideas:
   I would like to make the listed user who performed the ban configurable in config. As of right now, I just have it set to "Console".
