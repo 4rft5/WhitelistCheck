@@ -50,6 +50,8 @@ A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join
 
   <a href="https://www.spigotmc.org/resources/whitelistcheck.116490/">Spigot Page</a>
 
+  ![image](https://github.com/4rft5/WhitelistCheck/assets/74219775/012b9ab8-2e60-4c5e-8cef-a976359b2146)
+
 <br><br>
 
 ## Future Ideas:
