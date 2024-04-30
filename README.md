@@ -1,6 +1,8 @@
 # WhitelistCheck
   A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join who isn't on the server whitelist.
 
+  
+
 ![WhitelistCheckDescription](https://github.com/4rft5/WhitelistCheck/assets/74219775/eadedff2-4271-4534-96ae-d3bc3ef5d929)
 
   It runs on 1.20.4, it probably runs on other versions, but they haven't been tested.
@@ -13,6 +15,8 @@
   I guess that's about it. Enjoy my plugin designed just to be a "screw you in particular" kind of thing. I find it funny.
 
 <a href="https://github.com/4rft5/WhitelistCheck/releases/download/1.1JarFile/WhitelistCheck.v1.1.jar">Download</a>
+
+
 
 ![WhitelistCheckCommands](https://github.com/4rft5/WhitelistCheck/assets/74219775/2a069a13-ba9c-4f12-a7a1-3a79957fd42f)
 
@@ -27,11 +31,15 @@
   The plugin ban message can be configured in config.yml. It supports color codes and basic formatting using \n for new lines. 
   
   The default ban message is [WhitelistCheck]: Banned by WhitelistCheck.
+
+  
   
   
   ![WhitelistCheckSupport](https://github.com/4rft5/WhitelistCheck/assets/74219775/05c881cb-3e93-4c88-9d97-373fa5486295)
 
   If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact/>4rft5.com/contact</a>
+
+
 
 
 
