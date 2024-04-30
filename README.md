@@ -1,7 +1,7 @@
 # WhitelistCheck
  ![WhitelistCheckIcon2](https://github.com/4rft5/WhitelistCheck/assets/74219775/c8c26423-38b5-47b6-97d6-780968abfe34)
  <br>
- ## A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join who isn't on the server whitelist.
+A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join who isn't on the server whitelist.
 
   
 
