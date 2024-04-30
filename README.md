@@ -1,33 +1,38 @@
 # WhitelistCheck
   A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join who isn't on the server whitelist.
 
-## Information
+![WhitelistCheckDescription](https://github.com/4rft5/WhitelistCheck/assets/74219775/eadedff2-4271-4534-96ae-d3bc3ef5d929)
 
   It runs on 1.20.4, it probably runs on other versions, but they haven't been tested.
 
   This plugin is designed to help combat scanner bots, griefers, or other malicious users who may try to join a Minecraft Server without being on the server whitelist.
   While this doesn't stop the bots entirely, it does give you another barrier of defense against them.
 
+  It should be noted that when reload is used, it will not change the ban message of prior bans. It only will apply to new bans for users that are not currently banned.
+
+  I guess that's about it. Enjoy my plugin designed just to be a "screw you in particular" kind of thing. I find it funny.
+
 <a href="https://github.com/4rft5/WhitelistCheck/releases/download/1.1JarFile/WhitelistCheck.v1.1.jar">Download</a>
 
-## Commands:
+![WhitelistCheckCommands](https://github.com/4rft5/WhitelistCheck/assets/74219775/2a069a13-ba9c-4f12-a7a1-3a79957fd42f)
+
   | Command | Description |
   | --- | --- |
   | /wc reload | reloads the configuration file |
   | /wc disable | disables the plugin until the next server restart |
   | /wc help | lists the previous two commands |
 
-## Configuration:
+![WhitelistCheckFeatures](https://github.com/4rft5/WhitelistCheck/assets/74219775/fe032a6f-ad77-4053-a028-157c0324cf07)
+
   The plugin ban message can be configured in config.yml. It supports color codes and basic formatting using \n for new lines. 
   
   The default ban message is [WhitelistCheck]: Banned by WhitelistCheck.
+  
+  
+  ![WhitelistCheckSupport](https://github.com/4rft5/WhitelistCheck/assets/74219775/05c881cb-3e93-4c88-9d97-373fa5486295)
 
-## Notes:
-  It should be noted that when reload is used, it will not change the ban message of prior bans. It only will apply to new bans for users that are not currently banned.
+  If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact/>4rft5.com/contact</a>
 
-  I guess that's about it. Enjoy my plugin designed just to be a "screw you in particular" kind of thing. I find it funny.
-
-  This is also my first ever proper coding project, first GitHub project, and first Minecraft Plugin. So that's cool.
 
 
 Example ban screen:<br>
@@ -39,8 +44,4 @@ Example ban screen:<br>
   I would also like to make the comments actually show in config.yml, but I couldn't figure out how to before I got too annoyed at it.
 
   One last thing is I want the plugin to be functional with tab complete when writing a command, but again, I couldn't figure out how to.
-
-## Contributions
-
-Contributions are welcome! After all this is the first Java project I've ever taken, and I'm sure it's not perfect. 
 
