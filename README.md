@@ -19,6 +19,7 @@
 
 ## Configuration:
   The plugin ban message can be configured in config.yml. It supports color codes and basic formatting using \n for new lines. 
+  
   The default ban message is [WhitelistCheck]: Banned by WhitelistCheck.
 
 ## Notes:
