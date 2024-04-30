@@ -46,6 +46,8 @@
 
   If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact/>4rft5.com/contact</a>
 
+  <a href="https://www.spigotmc.org/resources/whitelistcheck.116490/">Spigot Page</a>
+
 <br><br>
 
 ## Future Ideas:
