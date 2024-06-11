@@ -32,6 +32,8 @@ A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join
 
 ![WhitelistCheckFeatures](https://github.com/4rft5/WhitelistCheck/assets/74219775/fe032a6f-ad77-4053-a028-157c0324cf07)
 
+  Use of the plugin can be allowed with the permission **whitelistcheck.use**.
+
   The plugin ban message can be configured in config.yml. It supports color codes and basic formatting using \n for new lines. 
   
   The default ban message is [WhitelistCheck]: Banned by WhitelistCheck.
