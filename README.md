@@ -16,8 +16,6 @@ A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join
 
   I guess that's about it. Enjoy my plugin designed just to be a "screw you in particular" kind of thing. I find it funny.
 
-<a href="https://github.com/4rft5/WhitelistCheck/releases/download/1.1JarFile/WhitelistCheck.v1.1.jar">Download</a>
-
 <br><br>
 
 ![WhitelistCheckCommands](https://github.com/4rft5/WhitelistCheck/assets/74219775/2a069a13-ba9c-4f12-a7a1-3a79957fd42f)
