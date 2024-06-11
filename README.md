@@ -46,7 +46,7 @@ A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join
   
   ![WhitelistCheckSupport](https://github.com/4rft5/WhitelistCheck/assets/74219775/05c881cb-3e93-4c88-9d97-373fa5486295)
 
-  If you need support, the best way to contact me is by opening a issue on this repo.
+  If you need support, the best way to contact me is by opening an issue on this repo.
 
   <a href="https://www.spigotmc.org/resources/whitelistcheck.116490/">Spigot Page</a>
 
