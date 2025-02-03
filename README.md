@@ -7,7 +7,7 @@ A Minecraft Spigot/Bukkit Plugin that permanently bans anyone attempting to join
 
 ![WhitelistCheckDescription](https://github.com/4rft5/WhitelistCheck/assets/74219775/eadedff2-4271-4534-96ae-d3bc3ef5d929)
 
-  It runs on 1.20.4-1.21, it probably runs on other versions, but they haven't been tested.
+  It runs on 1.20.4-1.21.4, it probably runs on other versions, but they haven't been tested.
 
   This plugin is designed to help combat scanner bots, griefers, or other malicious users who may try to join a Minecraft Server without being on the server whitelist.
   While this doesn't stop the bots entirely, it does give you another barrier of defense against them.
