@@ -1,0 +1,9 @@
+# /wc reload to reload the config in game
+# note that reloading the plugin will not change the message for pre-existing bans!
+
+# ban_message supports color codes, and new lines can be established with \n
+  ban_message: "&7[&4WhitelistCheck&7]&r: Banned by WhitelistCheck."
+
+# check_existing_bans, if enabled, will search the existing banlist, so nobody is banned over and over.
+  check_existing_bans: true
+
